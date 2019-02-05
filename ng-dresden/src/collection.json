@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "ng-dresden": {
+      "description": "A blank schematic.",
+      "factory": "./ng-dresden/index#ngDresden"
+    }
+  }
+}
