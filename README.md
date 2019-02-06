@@ -18,12 +18,12 @@ npm install -g @angular-devkit/schematics-cli
 
 _Optional:_
 
-Install Schematics library:
+Install Schematics library globally:
 ```
 npm install -g @schematics/schematics
 ```
 
-Install Schematics schematics, example schematic:
+Install Schematics schematics, example schematic globally:
 ```
 npm install -g @schematics/schematics
 ```
