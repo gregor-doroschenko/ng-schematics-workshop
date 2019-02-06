@@ -32,7 +32,7 @@ npm install -g @schematics/schematics
 
 Create new blank schematic project:
 ```
-schematics blank --name example-component
+schematics blank --name example-schematics
 ```
 
 _Optional:_
