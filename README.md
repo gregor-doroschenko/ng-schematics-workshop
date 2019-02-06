@@ -20,7 +20,7 @@ _Optional:_
 
 Install Schematics library globally:
 ```
-npm install -g @schematics/schematics
+npm install -g @@angular-devkit/schematics
 ```
 
 Install Schematics schematics, example schematic globally:
