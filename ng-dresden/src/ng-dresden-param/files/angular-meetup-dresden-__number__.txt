@@ -1,0 +1,3 @@
+<% if (number && title) { %>
+    Welcome to Angular Meetup Dresden #<%= number %>: <%= title %>!
+<% } %>
