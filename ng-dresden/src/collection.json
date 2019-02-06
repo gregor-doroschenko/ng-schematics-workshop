@@ -4,6 +4,11 @@
     "ng-dresden-info": {
       "description": "Create simple text file with welcome.",
       "factory": "./ng-dresden-info/index#ngDresdenInfo"
+    },
+    "ng-dresden-param": {
+      "description": "Create text file with meetup number and title",
+      "factory": "./ng-dresden-param/index#ngDresdenParam",
+      "schema": "./ng-dresden-param/schema.json"
     }
   }
 }
