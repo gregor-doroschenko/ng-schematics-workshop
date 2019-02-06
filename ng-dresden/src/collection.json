@@ -9,6 +9,11 @@
       "description": "Create text file with meetup number and title",
       "factory": "./ng-dresden-param/index#ngDresdenParam",
       "schema": "./ng-dresden-param/schema.json"
+    },
+    "ng-dresden-component": {
+      "description": "Create component",
+      "factory": "./ng-dresden-component/index#ngDresdenComponent",
+      "schema": "./ng-dresden-component/schema.json"
     }
   }
 }
