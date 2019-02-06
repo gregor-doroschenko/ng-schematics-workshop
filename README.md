@@ -43,3 +43,11 @@ schematics @schematics/schematics:schematic --name example-schematics
 ```
 In the `example-schematics`-project you will have some exampel schematics and helpfull comments. It's good to learn schematics.
 
+### Step 3: Build your schematics
+
+Befor you can test your own schematics, you should build that.
+
+Go into `example-schematics` folder and run:
+```
+npm run build
+```
