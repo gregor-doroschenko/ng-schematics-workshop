@@ -28,3 +28,18 @@ Install Schematics schematics, example schematic globally:
 npm install -g @schematics/schematics
 ```
 
+### Step 2: Create new schematics project
+
+Create new blank schematic project:
+```
+schematics blank --name example-component
+```
+
+_Optional:_
+
+Create example schematics:
+```
+schematics @schematics/schematics:schematic --name example-schematics
+```
+In the `example-schematics`-project you will have some exampel schematics and helpfull comments. It's good to learn schematics.
+
